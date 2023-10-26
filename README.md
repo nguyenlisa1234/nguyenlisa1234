@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge?page_id=nguyenlisa1234.nguyenlisa1234" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nguyenlisa1234.nguyenlisa1234" />
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
